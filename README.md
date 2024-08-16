@@ -1,6 +1,4 @@
-## olá 
-<!--
-
+Olá Me Chamo Ágatha
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pelo alura
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: não tenho nenhuma por enquanto
--->
+--> Então estou aprendendo a mecher mas não é dificil
+  prefiro o schart
